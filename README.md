@@ -1,2 +1,0 @@
-- check out my [website](george.ridoutweb.co.uk)
-- dotfiles included in this repo
