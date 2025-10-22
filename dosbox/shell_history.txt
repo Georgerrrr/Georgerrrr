@@ -1,0 +1,500 @@
+wmake hicr
+cd HTIDE
+wmake hicr
+HICR.EXE
+cd HTIDE
+wmake hicr
+HICR.EXE
+wmake hicr
+HICR.EXE
+cd HTIDE
+wmake hicr
+HICR.EXE
+cd HTIDE
+wmake hicr
+cd HTIDE
+wmake hicr
+cd HTIDE
+wmake hicr
+HICR.EXE
+wmake hicr
+HICR.EXE
+wmake hicr
+HICR.EXE
+wmake hicw
+wmake hicr
+HICR.EXE
+cd HTIDE
+wmake hicr
+HICR.EXE
+cd HTIDE
+wmake hicr
+HICR.EXE
+cd HTIDE
+wmake hic
+wmake hicr
+wmake clean
+wmake hicr
+HICR.EXE
+cd HTIDE
+wmake hicr
+HICR.EXE
+cd HTIDE
+wmake hicr
+cd HTIDE
+wmake hicr
+HICR.EXE
+cd HTIDE
+wmake hicr
+HICR.EXE
+cd HTIDE
+wmake hicr
+HICR.EXE
+cd HTIDE
+wmake hicr
+cd HTIDE
+wmake hicr
+wmake clean
+wmake hicr
+HICR.EXE
+cd HTIDE
+wmake hicr
+wmake clean
+wmake hicr
+HICR.EXE
+cd HTIDE
+wmake hicr
+cd HTIDE
+wmake hicr
+cd HTIDE
+wmake hicr
+cd HTIDE
+wmake hicr
+cd HTIDE
+wmake hicr
+cd HTIDE
+wmake hicr
+cd HTIDE
+wmake hicr
+HICR.EXE
+cd HTIDE
+wmake hicr
+wmake clean
+wmake hicr
+cd HTIDE
+wmake hicr
+HICR.EXE
+cd HTIDE
+wmake clean
+wmake hicr
+cd HTIDE
+wmake hicr
+cd HTIDE
+wmake hicr
+HICR.EXE
+cd HTIDE
+wmake hicr
+HICR.EXE
+debug
+cd HTIDE
+wmake hicr
+HICR.EXE
+ls
+cd GFX
+ls
+make
+rescan
+wmake
+rescan
+wmake
+ls
+wmake
+wmake clean
+wmake
+GFX.EXE
+cd GFX
+wmake
+wmake clean
+wmake
+rescan
+wmake
+GFX.EXE
+wmake
+GFX.EXE
+cd TIDAL
+wmake
+ls
+wmake
+wmake clean
+l
+ls
+wmake
+TEST.EXE
+wmake
+TEST.EXE
+wmake
+TEST.EXE
+wmake
+TEST.EXE
+wmake
+TEST.EXE
+wmake
+TEST.EXE
+wmake
+TEST.EXE
+wmake
+TEST.EXE
+cd TIDAL
+wmake
+TEST.EXE
+wmake
+TEST.EXE
+wmake
+TEST.EXE
+wmake
+TEST.EXE
+wmake
+TEST.EXE
+wmake
+TEST.EXE
+wmake
+TEST.EXE
+wmake
+TEST.EXE
+wmake
+TEST.EXE
+wmake
+TEST.EXE
+wmake
+TEST.EXE
+wmake
+TEST.EXE
+wmake
+TEST.EXE
+wmake
+TEST.EXE
+wmake
+TEST.EXE
+wmake
+TEST.EXE
+wmake
+TEST.EXE
+cd ..
+dir
+VBETEST.EXE
+cd TIDAL
+wmake
+TEST.EXE
+wmake
+TEST.EXE
+wmake
+TEST.EXE
+wmake
+TEST.EXE
+wmake
+TEST.EXE
+wmake
+TEST.EXE
+wmake
+TEST.EXE
+wmake
+TEST.EXE
+wmake
+TEST.EXE
+wmake
+TEST.EXE
+wmake
+TEST.EXE
+cd HTIDE
+debug
+cd ..
+cd TIDAL
+wmake
+TEST.EXE
+wmake
+cd TIDAL
+wmake
+TEST.EXE
+cd TIDAL
+debug TEST.EXE
+wmake
+cd TIDAL
+wmake
+TEST.EXE
+wmake
+TEST.EXE
+wmake
+TEST.EXE
+wmake
+debug
+wmake
+TEST.EXE
+wmake
+TEST.EXE
+debug
+wamek
+wmake
+TEST.EXE
+wmake
+TEST.EXE
+wmake
+TEST.EXE
+cd TIDAL
+wmake
+TEST.EXE
+cd TIDAL
+wmake
+debug
+cd TIDAL
+wmake
+TEST.EXE
+cd TASM
+cd ..
+cd TIDAL
+wmake
+TEST.EXE
+cd TIDAL
+debug
+cd TIDAL
+debug
+cd TIDAL
+wmake
+TEST.EXE
+debug
+wmake
+TEST.EXE
+debug
+wmake
+TEST.EXE
+debug
+cd TIDAL
+wmake
+debug
+TEST.EXE
+cd TIDAL
+wmake
+TEST.EXE
+cd HTIDE
+wmake
+HICR.EXE
+cd HTIDE
+cd ..
+cd TIDAL
+wmake
+TEST.EXE
+debug
+wmake
+TEST.EXE
+wmake
+wmak
+wmake
+debug
+cd TIDAL
+wmake
+TEST.EXE
+test
+debug
+wmake
+TEST.EXE
+debug
+wdd
+wcl
+cd TIDAL
+make clean
+wmake clean
+ls
+del TIDE.LIB
+del DUMP.TXT
+cd TIDAL
+wmake
+TEST.wmake
+wmake
+TEST.EXE
+debug
+wmake
+debug
+wmake
+debug
+wmake
+debug
+wmake
+debug
+wmake
+debug
+wmake
+debug
+wmake
+TEST.EXE
+debug
+wmake
+TEST.EXE
+debug
+cd TIDAL
+wmake
+TEST.EXE
+wmake
+TEST.EXE
+wmake
+TEST.EXE
+test
+debug
+wmake
+TEST.EXE
+debug
+cd TIDAL
+wmake
+TEST.EXE
+cd TIDAL
+debug
+wmake
+debug
+cd TIDAL
+wmake clean
+dir
+del TIDE.LIB
+wmake
+TEST.EXE
+cd TIDAL
+ls
+del TEST.EXE
+TIDE.EXE
+wmake
+TIDE.EXE
+wmake
+TIDE.EXE
+wmake
+TIDE.EXE
+wmake
+TIDE.EXE
+wmake
+TIDE.EXE
+wmake
+TIDE.EXE
+wmake
+TIDE.EXE
+wmake
+TIDE.EXE
+wmake
+TIDE.EXE
+wmake
+TIDE.EXE
+wmake
+TIDE.EXE
+wmake
+cd TIDAL
+wmake
+TIDE.EXE
+wmake
+TIDE.EXE
+wmake
+TIDE.EXE
+wmake
+TIDE.EXE
+wmake
+TIDE.EXE
+wmake
+TIDE.EXE
+wmake
+TIDE.EXE
+wmake
+TIDE.EXE
+wmake
+TIDE.EXE
+cd TIDAL
+wmake
+TIDE.EXE
+wmake
+TIDE.EXE
+wmak
+wmake
+TIDE.EXE
+wmake
+TIDE.EXE
+cd TIDAL
+wmake
+TIDE.EXE
+wmake
+TIDE.EXE
+wmake
+TIDE.EXE
+wmake
+TIDE.EXE
+wmake
+TIDE.EXE
+wmake
+TIDE.EXE
+wmake
+TIDE.EXE
+wmake
+TIDE.EXE
+wmake
+TIDE.EXE
+wmake
+TIDE.EXE
+wmake
+TIDE.EXE
+wmake
+wmak
+wmake
+TIDE.EXE
+wmake
+TIDE.EXE
+wmake
+TIDE.EXE
+wmake
+TIDE.EXE
+cd TIDAL
+wmake
+TIDE.EXE
+wmake
+TIDE.EXE
+wmake
+TIDE.EXE
+wmake
+TIDE.EXE
+wmake
+TIDE.EXE
+wmake
+TIDE.EXE
+wmake
+TIDE.EXE
+wmake
+TIDE.EXE
+wmake
+TIDE.EXE
+wmake
+TIDE.EXE
+wmake
+TIDE.EXE
+wmake
+TIDE.EXE
+wmake
+TIDE.EXE
+cd TIDAL
+wmake
+TIDE.EXE
+wmake
+TIDE.EXE
+wmake
+TIDE.EXE
+wmake
+TIDE.EXE
+wmake
+TIDE.EXE
+cd TIDAL
+wmake
+TIDE.EXE
+clear
+cls
+TIDE.EXE
+wmak
+wmake
+TIDE.EXE
+wmake
+TIDE.EXE
+wmake
+TIDE.EXE
+wmake
+TIDE.EXE
+wmake
+TIDE.EXE
