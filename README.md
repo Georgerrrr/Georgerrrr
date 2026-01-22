@@ -1,2 +1,2 @@
-- check out my [website](george.ridoutweb.co.uk)
+- check out my [website](www.ridoutweb.co.uk)
 - dotfiles included in this repo
